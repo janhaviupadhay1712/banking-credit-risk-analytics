@@ -1,6 +1,4 @@
-Bilkul. 👍 Neeche **complete README.md ek single copy-paste block** mein hai. Isko **poora select → copy → VS Code ke `README.md` mein paste** kar dena.
 
-````markdown
 # 🏦 Banking Credit Risk Analytics
 
 An end-to-end **Credit Risk Analytics** project designed to analyze loan portfolio performance, identify high-risk customers, monitor defaults and delinquency, and provide actionable business insights using **Python, PostgreSQL, SQL, Excel, and Power BI**.
